@@ -33,3 +33,14 @@ aldeed:moment-timezone
 
 
 npm-container
+accounts-ui
+accounts-twitter
+aldeed:autoform
+twbs:bootstrap
+rajit:bootstrap3-datepicker
+mpowaga:autoform-summernote
+comerc:autoform-placecomplete
+alanning:roles
+dburles:collection-helpers
+matb33:collection-hooks
+fortawesome:fontawesome
